@@ -10,6 +10,7 @@ Her ödev veya proje için ayrı bir klasör oluşturulmuştur. Klasörler için
 Bu repo'yu kullanmak için aşağıdaki adımları takip edebilirsin:
 
 1. Repo'yu bilgisayarına klonla:
+
 git clone https://github.com/sametaluclu/StajOdevler.git
 
 2. Klonladığın dizine giderek ilgili ödev veya proje klasörünü bul.
@@ -19,8 +20,11 @@ git clone https://github.com/sametaluclu/StajOdevler.git
 4. Yaptığın değişiklikleri repoya eklemek için aşağıdaki komutları kullan:
 
 git add .
+
 git commit -m "Değişiklik açıklaması"
+
 git push origin master
+
 
 Not: "master" yerine kullandığın ana dalın adını kullanmalısın.
 
