@@ -15,3 +15,12 @@ def ara_bul(sayilar, hedef):
 
 ara_bul([1, 2, 4, 8], 4)
 ara_bul([2, 4, 5, 8], 3)
+
+
+
+
+
+
+
+
+
