@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 data = pd.read_csv(r"C:/Users/azate/PycharmProjects/project-1/odev2/Iris.csv",)
 
